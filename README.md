@@ -4,3 +4,5 @@ This is report about a Convolutional Neural Network (CNN)-based Human Activity R
 ## Link to dataset
 [MotionSenseDataset](https://github.com/mmalekzadeh/motion-sense)
 
+## Runnig
+Place har.ipyb notebook in data folder
